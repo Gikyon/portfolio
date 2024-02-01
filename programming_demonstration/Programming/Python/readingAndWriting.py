@@ -1,5 +1,5 @@
 """
-Demonstration od reading and writing from/to a file
+Demonstration of reading and writing from/to a file
 """
 
 def initialize(): #extra option if u want to load the inventory as the begining
