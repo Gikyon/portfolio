@@ -1,5 +1,5 @@
 This is a repository for finished Projects and writeups
 
-Ongoing projects and self research:
+Ongoing self research:
 - Yara rule
 - Snort rule
